@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "App1": {
-      "commandName": "Project",
-      "commandLineArgs": "test1",
-      "hotReloadEnabled": true
-    }
-  }
-}
